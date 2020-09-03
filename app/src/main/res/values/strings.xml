@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhoneInfo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="RedLeds">Red_Leds</string>
+    <string name="Leds_one_Off">Leds_one_Off</string>
+    <string name="GreenLeds">Green_Leds</string>
+    <string name="Leds_two_Off">Leds_two_Off</string>
+    <string name="BlueLeds">Blue_Leds</string>
+    <string name="Leds_three_Off">Leds_three_Off</string>
+</resources>
